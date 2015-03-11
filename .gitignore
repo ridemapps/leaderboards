@@ -1,0 +1,68 @@
+# Elixir
+/_build
+/deps
+erl_crash.dump
+*.ez
+fontconfig
+*.pyc
+mix.lock
+
+# Clojure
+pom.xml
+pom.xml.asc
+*jar
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+
+# C extensions
+*.so
+
+# Linux open files
+*~
+
+# KDE directory preferences
+.directory
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Logs
+*.log
+
+# intelliJ IDE
+*.iml
+
+# OSX
+.Trashes
+.AppleDB
+.AppleDesktop
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+*~
+workspace.xml
+.idea/*
