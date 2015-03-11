@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/ridemapps/leaderboards.png?branch=master)](https://api.travis-ci.org/ridemapps/leaderboards)
+[![Build Status](https://api.travis-ci.org/ridemapps/leaderboards.png)](https://api.travis-ci.org/ridemapps/leaderboards)
 
 # leaderboards
 
